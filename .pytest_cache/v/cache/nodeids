@@ -1,0 +1,9 @@
+[
+  "test_widget.py::test_widget",
+  "test_widget.py::test_widget_fail",
+  "sportscar/body/test_body.py::BodyTests::()::test_can_navigate_to_body_page",
+  "sportscar/body/test_body.py::BodyTests::()::test_bumper",
+  "sportscar/body/test_body.py::BodyTests::()::test_windfhielf",
+  "sportscar/engine/test_engine.py::test_can_navigate_to_engine_page",
+  "sportscar/entertainment/test_entertainment.py::test_can_navigate_to_entertainment_page"
+]
