@@ -1,0 +1,4 @@
+{
+  "sportscar/engine/test_engine.py::test_can_navigate_to_engine_page": true,
+  "sportscar/entertainment/test_entertainment.py::test_can_navigate_to_entertainment_page": true
+}
