@@ -1,0 +1,6 @@
+[
+  "test_environment.py::test_environment_is_qa",
+  "test_environment.py::test_envirionment_is_dev",
+  "test_environment.py::test_envirionment_is_staging",
+  "test_environment.py::test_this_should_always_fail"
+]

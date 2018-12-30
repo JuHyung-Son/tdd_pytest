@@ -1,0 +1,8 @@
+[
+  "test_television.py::test_televisions_turns_on[Sony]",
+  "test_television.py::test_televisions_turns_on[samsung]",
+  "test_television.py::test_televisions_turns_on[lg]",
+  "test_television.py::test_browser_can_navigate_to_training_ground[WebDriver0]",
+  "test_television.py::test_browser_can_navigate_to_training_ground[WebDriver1]",
+  "test_television.py::test_browser_can_navigate_to_training_ground[WebDriver2]"
+]
